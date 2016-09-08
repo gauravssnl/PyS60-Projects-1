@@ -1,5 +1,4 @@
-from httplib import (HTTPSConnection,
-                                  HTTPException)
+from httplib import HTTPSConnection,HTTPException
 from simon816 import json
 from base64 import encodestring
 class Connection:
